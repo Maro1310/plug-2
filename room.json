@@ -1,7 +1,7 @@
 {
     "room": "Community Name",
     "author": "Author",
-    "icon": "https://i.imgur.com/fX6W3Bi.png",
+    "icon": "https://i.imgur.com/OLXsgkI.png",
     "css": null,
     "rules": {
         "allowAutorespond": true,
@@ -27,7 +27,7 @@
         "user": null
     },
     "images": {
-        "background": null,
+        "background": "https://i.imgur.com/yvLMnj1.jpg",
         "playback": null,
         "admin": null,
         "ambassador": null,
