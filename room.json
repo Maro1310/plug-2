@@ -1,0 +1,45 @@
+{
+    "room":                 "Yarr! We are pirates! ♪",
+    "author":               "-Máro-",
+    "icon":                 "https://i.imgur.com/fX6W3Bi.png",
+    "css":                  null,
+    "rules": {
+        "allowAutorespond": true, 
+        "allowAutowoot":    true,
+        "allowAutojoin":    true,
+        "allowAutograb":    true,
+        "allowSmartVote":   true,
+        "allowEmotes":      true,
+        "allowShowingMehs": false,
+        "forceSmartVote":   false
+    },
+    "ccc": {
+        "admin":            null,
+        "ambassador":       null,
+        "host":             null,
+        "cohost":           null,
+        "manager":          null,
+        "bouncer":          null,
+        "rdj":              null,
+        "subscriber":       null,
+        "silversubscriber": null,
+        "friend":           null,
+        "user":             null
+    },
+    "images": {
+        "background":       null,
+        "playback":         null,
+        "admin":            null,
+        "ambassador":       null,
+        "host":             null,
+        "cohost":           null,
+        "manager":          null,
+        "bouncer":          null,
+        "rdj":              null,
+        "subscriber":       null,
+        "silversubscriber": null,
+    },
+    "autocomplete": [],
+    "emotes": {
+    }
+}
