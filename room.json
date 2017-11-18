@@ -1,7 +1,7 @@
 {
     "room": "Community Name",
     "author": "Author",
-    "icon": null,
+    "icon": "https://i.imgur.com/fX6W3Bi.png",
     "css": null,
     "rules": {
         "allowAutorespond": true,
