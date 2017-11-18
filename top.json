@@ -2,7 +2,7 @@
     "room":                 "♪ TOP CZ/SK ♪",
     "author":               "-Máro-",
     "icon":                 "https://i.imgur.com/iNYvJg7.png",
-    "css":                  "https://rawgit.com/Maro1310/plug/master/top.css",
+    "css":                  null,
     "rules": {
         "allowAutorespond": true, 
         "allowAutowoot":    true,
@@ -10,7 +10,7 @@
         "allowAutograb":    true,
         "allowSmartVote":   true,
         "allowEmotes":      true,
-        "allowShowingMehs": true,
+        "allowShowingMehs": false,
         "forceSmartVote":   false
     },
     "ccc": {
