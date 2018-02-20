@@ -1,14 +1,14 @@
 /* --- CHAT --- */
-#chat .cm.log {
-	display: none;
-}
 
-#chat .cm.rsshit.sml.message.rs-log-red {
-	display: none;
-}
-
+#chat .cm.log,
+#chat .cm.rsshit.sml.message.rs-log-red,
 #chat .cm.rsshit.sml.message.rs-log-green {
 	display: none;
+}
+
+#chat .welcome {
+    color: #58f;
+    border: #58f 2px dotted;
 }
 
 /* --- USERS --- */
