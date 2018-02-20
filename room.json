@@ -16,8 +16,8 @@
     "ccc": {
         "admin": null,
         "ambassador": null,
-        "host": null,
-        "cohost": null,
+        "host": "#5588ff",
+        "cohost": "#5588ff",
         "manager": null,
         "bouncer": null,
         "rdj": null,
@@ -27,12 +27,12 @@
         "user": null
     },
     "images": {
-        "background": "https://i.imgur.com/kbOA858.jpg",
+        "background": "https://i.imgur.com/1rCSZJN.jpg",
         "playback": null,
         "admin": null,
         "ambassador": null,
-        "host": null,
-        "cohost": null,
+        "host": "https://i.imgur.com/fDOKhFB.png",
+        "cohost": "https://i.imgur.com/fDOKhFB.png",
         "manager": null,
         "bouncer": null,
         "rdj": null,
