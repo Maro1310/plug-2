@@ -1,1 +1,21 @@
+#user-lists .list.staff .group {
+    background: linear-gradient(to right, rgb(0, 23, 47) 0, rgb(4, 25, 47) 100%) !important;
+    border-top: 1px solid #04203c;
+    border-bottom: 1px solid #04203c;
+}
 
+#user-lists .list.staff .group.host .icon-chat-host {
+	background: url(https://i.imgur.com/ohgdXc5.png) no-repeat;
+}
+
+#user-lists .list.staff .group.manager .icon-chat-manager {
+	background: url(https://i.imgur.com/ybkhxL7.png) no-repeat;
+}
+
+#user-lists .list.staff .group.bouncer .icon-chat-bouncer {
+	background: url(https://i.imgur.com/mL8QdGC.png) no-repeat;
+}
+
+#user-lists .list.staff .group.dj .icon-chat-dj {
+	background: url(https://i.imgur.com/V3RdBBG.png) no-repeat;
+}
