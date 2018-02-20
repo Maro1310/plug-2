@@ -20,7 +20,8 @@
 }
 
 .header-panel-button.selected {
-    border-bottom: #2ea8d1 3px solid;
+	background: none;
+    	border-bottom: #2ea8d1 3px solid;
 }
 
 /* --- USERS --- */
