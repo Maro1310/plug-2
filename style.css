@@ -8,9 +8,17 @@
 	background: url(https://i.imgur.com/ohgdXc5.png) no-repeat;
 }
 
-#user-lists .list.staff .group.manager .icon-chat-manager {
-	background: url(https://i.imgur.com/ybkhxL7.png) no-repeat;
+/* --- manager --- */
+.icon-chat-manager + span,
+#user-lists .group.manager ~ .user span,
+#dialog-user-role .role-menu .menu ul .manager span {
+  color: #39F !important;
 }
+#user-lists .group.manager {
+  color: #39F;
+  background: linear-gradient(to right, hsla(210,100%,10%,.5), hsla(210,100%,20%,.5)) !important;
+}
+/* --- */ 
 
 #user-lists .list.staff .group.bouncer .icon-chat-bouncer {
 	background: url(https://i.imgur.com/mL8QdGC.png) no-repeat;
