@@ -1,14 +1,14 @@
 /* --- CHAT --- */
 
-#chat .cm.log,
-#chat .cm.rsshit.sml.message.rs-log-red,
-#chat .cm.rsshit.sml.message.rs-log-green {
-	display: none;
-}
-
 #chat .welcome {
     	color: #2ea8d1;
     	border: #2ea8d1 1px solid;
+}
+
+/* --- ROOM --- */
+
+#room-bar .favorite.selected .icon-grab {
+    	background: url(https://i.imgur.com/f6EAKOT.png) no-repeat;
 }
 
 /* --- USERS --- */
