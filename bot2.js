@@ -18,11 +18,6 @@ var Plug = {
                 a = t.un,
                 i = API.getUser(),
                 m = "!magical";
-            
-                if (0 == s.indexOf(m))
-                {
-                    API.sendChat("ahoj")
-                }
         }
         
         var e = this;
@@ -30,5 +25,5 @@ var Plug = {
     }
 };
 ! function() {
-    $("body").hasClass("maro-plugin") ? API.chatLog("Plugin already loaded.", alert) ? Plug.init()
+    $("body").hasClass("maro-plugin") ? API.sendChat("Plugin already loaded.", alert) ? Plug.init()
 }();
