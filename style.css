@@ -8,7 +8,7 @@
 
 #chat .welcome {
     	color: #58f;
-    	border: #58f 2px;
+    	border: #58f 2px solid;
 	transition: border 0.3s;
 }
 
