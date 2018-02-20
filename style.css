@@ -11,6 +11,10 @@
     	background: url(https://i.imgur.com/f6EAKOT.png) no-repeat;
 }
 
+#rcs-progress-container .bar {
+	background-color: #2ea8d1 !important;
+}
+
 /* --- USERS --- */
 
 #user-lists .list.staff .group {
