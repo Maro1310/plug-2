@@ -2,7 +2,7 @@
     "room": "Metal Rock Punk CZ/SK",
     "author": "Máro",
     "icon": "https://i.imgur.com/3jLjL69.png",
-    "css": "https://cdn.rawgit.com/M4rienka/plug/c9c16671/style.css",
+    "css": "https://cdn.rawgit.com/M4rienka/plug/5b4a909f/style.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
