@@ -1,0 +1,45 @@
+{
+    "room": "Metal Rock Punk CZ/SK",
+    "author": "Máro",
+    "icon": null,
+    "css": null,
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": "#e6cc26",
+        "silversubscriber": "#637175",
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": "https://i.imgur.com/kbOA858.jpg",
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": "https://i.imgur.com/aTFRn2x.png",
+        "silversubscriber": "https://i.imgur.com/HLTpjxR.png"
+    },
+    "emotes": {
+    	"chnu": "https://i.imgur.com/nbYQOWx.png"
+    }
+}
