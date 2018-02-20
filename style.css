@@ -1,7 +1,7 @@
 /* --- CHAT --- */
 
 #chat .cm.log {
-	visibility: hidden;
+	display: none;
 }
 
 #user-lists .list.staff .group.host {
