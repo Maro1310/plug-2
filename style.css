@@ -1,5 +1,13 @@
 /* --- CHAT --- */
-#chat .cm.log .cm.rsshit.sml.message.rs-log-red .cm.rsshit.sml.message.rs-log-green {
+#chat .cm.log {
+	display: none;
+}
+
+#chat .cm.rsshit.sml.message.rs-log-red {
+	display: none;
+}
+
+#chat .cm.rsshit.sml.message.rs-log-green {
 	display: none;
 }
 
