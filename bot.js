@@ -16,7 +16,8 @@ var Plug = {
             var s = t.message,
                 o = t.uid,
                 a = t.un,
-                i = API.getUser();
+                i = API.getUser(),
+                m = "!magical";
         }
         
         var e = this;
