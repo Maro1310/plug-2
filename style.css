@@ -16,8 +16,10 @@
 #user-lists .list.staff .group {
 	color: #58f;
 	background: linear-gradient(to right, rgb(0, 23, 47) 0, rgb(4, 25, 47) 100%) !important;
-	border-top: 1px solid #04203c;
-	border-bottom: 1px solid #04203c;
+}
+
+#user-lists .list.staff .user {
+	color: #58f !important;
 }
 
 #user-lists .list.staff .group.host .icon-chat-host {
