@@ -7,30 +7,31 @@
 }
 
 #chat .welcome {
-    	color: #58f;
-    	border: #58f 1px solid;
+    	color: #2ea8d1;
+    	border: #2ea8d1 1px solid;
 }
 
 /* --- USERS --- */
 
-#user-lists .list.staff .group.host {
+#user-lists .list.staff .group {
+	color: #58f;
 	background: linear-gradient(to right, rgb(0, 23, 47) 0, rgb(4, 25, 47) 100%) !important;
 	border-top: 1px solid #04203c;
 	border-bottom: 1px solid #04203c;
 }
 
 #user-lists .list.staff .group.host .icon-chat-host {
-	background: url(https://i.imgur.com/ohgdXc5.png) no-repeat;
+	background: url(https://i.imgur.com/lcAprsH.png) no-repeat;
 }
 
 #user-lists .list.staff .group.manager .icon-chat-manager {
-	background: url(https://i.imgur.com/ybkhxL7.png) no-repeat;
+	background: url(https://i.imgur.com/YPtY3v8.png) no-repeat;
 }
 
 #user-lists .list.staff .group.bouncer .icon-chat-bouncer {
-	background: url(https://i.imgur.com/mL8QdGC.png) no-repeat;
+	background: url(https://i.imgur.com/pjMeDlL.png) no-repeat;
 }
 
 #user-lists .list.staff .group.dj .icon-chat-dj {
-	background: url(https://i.imgur.com/V3RdBBG.png) no-repeat;
+	background: url(https://i.imgur.com/MwHguO3.png) no-repeat;
 }
