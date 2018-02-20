@@ -1,8 +1,9 @@
 /* --- CHAT --- */
-
-#chat .cm.log {
+#chat .cm.log .cm.rsshit.sml.message.rs-log-red .cm.rsshit.sml.message.rs-log-green {
 	display: none;
 }
+
+/* --- USERS --- */
 
 #user-lists .list.staff .group.host {
 	background: linear-gradient(to right, rgb(0, 23, 47) 0, rgb(4, 25, 47) 100%) !important;
