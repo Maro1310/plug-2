@@ -15,6 +15,14 @@
 	background-color: #2ea8d1 !important;
 }
 
+#friends-button .request-count {
+    	background: #2ea8d1;
+}
+
+.header-panel-button.selected {
+    border-bottom: #2ea8d1 3px solid;
+}
+
 /* --- USERS --- */
 
 #user-lists .list.staff .group {
