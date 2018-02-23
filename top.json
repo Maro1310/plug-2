@@ -1,6 +1,6 @@
 {
     "room":                 "♪ TOP CZ/SK ♪",
-    "author":               "-Máro-",
+    "author":               "Máro",
     "icon":                 "https://i.imgur.com/iNYvJg7.png",
     "css":                  "https://rawgit.com/M4rienka/plug/master/top.css",
     "rules": {
@@ -24,10 +24,10 @@
         "subscriber":       "#e6cc26",
         "silversubscriber": "#dc24d9",
         "friend":           null,
-        "user":             null
+        "user":             "#00bf4f"
     },
     "images": {
-        "background":       "https://rawgit.com/M4rienka/plug/master/pozadie_new.png",
+        "background":       "https://i.imgur.com/kbOA858.jpg",
         "playback":         "https://i.imgur.com/LO6AmiK.png",
         "admin":            null,
         "ambassador":       null,
@@ -40,16 +40,11 @@
         "silversubscriber": "https://i.imgur.com/qgJInoK.png"
     },
     "emotes": {
-        "chnu":     "https://i.imgur.com/nbYQOWx.png",
-        "chnu2":    "https://i.imgur.com/r8UNo3E.png",
-        "chnu3":    "https://i.imgur.com/4qjt0rr.png",
-        "chnu4":    "https://i.imgur.com/D70cqbI.png",
-        "chnu5":    "https://i.imgur.com/TrwPpNl.png",
-        "chnu6":    "https://i.imgur.com/MATi2h4.png",
-        "bum":      "https://i.imgur.com/Co1GTyk.gif",
-        "kitten":   "https://i.imgur.com/Gww2Esz.png",
-        "3":        "https://i.imgur.com/N50ooqX.png",
-        "playlist": "https://i.imgur.com/e4OMtMT.png",
-        "valien":   "https://i.imgur.com/iNYvJg7.png"
+        "chnu":             "https://i.imgur.com/nbYQOWx.png",
+        "chnu2":            "https://i.imgur.com/4qjt0rr.png",
+        "chnu3":            "https://i.imgur.com/D70cqbI.png",
+        "narval":           "https://i.imgur.com/h43fCGa.png",
+        "valien":           "https://i.imgur.com/iNYvJg7.png",
+        "playlist":         "https://i.imgur.com/e4OMtMT.png"
     }
 }
